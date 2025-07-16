@@ -3,7 +3,7 @@
 Welcome to my C++ learning vault!  
 This repository contains my personal C++ practice, including lecture notes, hands-on examples, and problem-solving sessions.
 
-## 📂 Structure
+
 ## 🧠 What I’m Learning
 
 - Basic syntax and structure of C++
